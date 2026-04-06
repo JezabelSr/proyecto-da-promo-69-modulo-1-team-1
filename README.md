@@ -1,1 +1,1 @@
-# Proyecto_Juegos-Cl-sicos-en-Python
+# Proyecto_Juegos-Clasicos-en-Python
