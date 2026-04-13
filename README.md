@@ -23,6 +23,7 @@ El desarrollo se dividió en dos células de trabajo para maximizar la eficienci
  - Cristina Millán 
 
  
+
 **🕹️ Los Juegos**
 
  **1. El Ahorcado 😵**
@@ -50,6 +51,7 @@ Un duelo de estrategia contra la computadora.
   - Contador de puntuación (gana el primero en llegar a 3 puntos).
 
  
+
 **🛠️ Tecnologías Utilizadas** 
 
 - Lenguaje: Python 3.14.3 
@@ -59,6 +61,7 @@ Un duelo de estrategia contra la computadora.
 - Entorno: Visual Studio Code  
 
  
+
 **📈 Aprendizajes** 
 
 A través de este proyecto, el equipo fortaleció habilidades en: 
