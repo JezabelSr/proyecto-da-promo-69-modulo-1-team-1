@@ -6,7 +6,7 @@ Bienvenido a nuestro repositorio. Este proyecto es el resultado de un trabajo co
 
  
 
-👥 Nuestro Equipo 
+👥 **Nuestro Equipo** 
 
 El desarrollo se dividió en dos células de trabajo para maximizar la eficiencia: 
 
